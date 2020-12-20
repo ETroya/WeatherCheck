@@ -55,7 +55,6 @@ function displayWeatherInfo(city) {
                 $("#weatherView").prepend(cityDiv);
             })
 
-
     })
 
 }
